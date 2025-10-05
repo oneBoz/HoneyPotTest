@@ -1,6 +1,6 @@
 # HoneyPotTest
 
-Instructions to test code:
+Instructions to demo:
   1. Download "build" folder and put it somewhere
   2. Go the the parent directory of the "build" folder
   3. run `npm install -g serve` on terminal/ command prompt
